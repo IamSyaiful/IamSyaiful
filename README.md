@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,vue" />
@@ -28,10 +28,20 @@
 
 ---
 
-## 💻 Programming Languages
+## Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,html" />
+</p>
+
+## Tooling / Runtime / IDE
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,vscode" />
+</p>
+
+## Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 <!--
