@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/username">
+  <a href="https://www.instagram.com/saipul05___/">
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram">
   </a>
-  <a href="https://linkedin.com/in/username">
+  <a href="https://www.linkedin.com/in/syaiful-amin-738649361/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:emailkamu@gmail.com">
+  <a href="mailto:saipulamin32467@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail">
   </a>
 </p>
@@ -23,7 +23,7 @@
 ## 🚀 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,vue,svelte,go" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,go" />
+  <img src="https://skillicons.dev/icons?i=php,html,css" />
 </p>
 
 <!--
